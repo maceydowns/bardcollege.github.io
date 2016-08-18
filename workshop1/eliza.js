@@ -232,6 +232,12 @@ var rules = {
     "it's literature",
     "ANGERY",
   ],
+  "~*x frick ~*y": [
+  	"heck",
+  	"fronk",
+  	"frOCL",
+  	"wjat tp jecl???",
+  ],
 };
 
 var default_responses = [
