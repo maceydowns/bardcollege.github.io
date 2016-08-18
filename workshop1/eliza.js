@@ -238,6 +238,11 @@ var rules = {
   	"frOCL",
   	"wjat tp jecl???",
   ],
+  "~*x are you a bear? ~*y": [
+  	"I'm? not a bear",
+  	"TOAST",
+  	"I'm a vegan",
+  ],
 };
 
 var default_responses = [
