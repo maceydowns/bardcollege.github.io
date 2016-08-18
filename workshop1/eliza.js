@@ -225,6 +225,13 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x honk ~*y": [
+    "What the honk?",
+    "What to heck?",
+    "wild",
+    "it's literature",
+    "ANGERY",
+  ],
 };
 
 var default_responses = [
